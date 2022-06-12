@@ -24,5 +24,6 @@ Paraburkholderia caffeinilytica
 ![image](https://user-images.githubusercontent.com/77612712/173229872-17499a4c-941f-4a92-a192-3981c4855555.png)
 ![image](https://user-images.githubusercontent.com/77612712/173229874-fd7c9728-c2d1-4086-a776-daceccd01d38.png)
 ![image](https://user-images.githubusercontent.com/77612712/173229875-0f2f8bfc-daae-4386-8c1d-bed940dc4d73.png)
-## Информация по полученным гомологичным кластерам. Всего кластеров: 
+## Информация по полученным гомологичным кластерам. 
+## Всего кластеров: 
 ## Гистограмма кластеров по кол-ву разных геномов в кластере
