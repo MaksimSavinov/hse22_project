@@ -1,7 +1,7 @@
 # hse22_project
-# Выбранный таксон Betaproteobacteria
-# Выбранный род Paraburkholderia (прокариот)
-# Выбранные геномы:
+## Выбранный таксон Betaproteobacteria
+## Выбранный род Paraburkholderia (прокариот)
+## Выбранные геномы:
 Paraburkholderia acidiphila,
 Paraburkholderia acidisoli,
 Paraburkholderia aromaticivorans,
