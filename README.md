@@ -7,7 +7,7 @@ Paraburkholderia acidisoli,
 Paraburkholderia aromaticivorans,
 Paraburkholderia atlantica,
 Paraburkholderia caffeinilytica
-## Ссылка на google collab 
+## Ссылка на google collab https://colab.research.google.com/drive/1ZLGL1TXVYHMmvkpBHTBl-wKRoZKVWgRt?usp=sharing
 ## Сводная таблица с информацией по аннотированным генам
 ![image](https://user-images.githubusercontent.com/77612712/173229744-fc283ba7-3491-4a7c-a2eb-b0dd010a7c53.png)
 ## Сводная таблица с информацией по участков Z-dna > 500
